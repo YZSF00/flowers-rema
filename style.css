@@ -5,6 +5,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: 'GERALDINE PERSONAL USE';
+    src: url('geraldine-personal-use.italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 body {
     background-image: linear-gradient(to top, #010329, #000005);
@@ -22,7 +28,6 @@ body {
     text-align: center;
     margin-bottom: 33rem;
     font-family: 'GERALDINE PERSONAL USE';
-    src: url('geraldine-personal-use.italic.ttf');
 }
 
 .flower {
